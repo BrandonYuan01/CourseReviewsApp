@@ -11,9 +11,6 @@ Course Review Application
 You can run the CourseReviewsApplication.java file which has a main function that will execute and run the application. The vm arguments that are needed are "--module-path [PATH_TO_JAVAFX_LIB_FOLDER] --add-modules javafx.controls,javafx.fxml".
 
 ## Contributions
-
-List the primary contributions of each author. It is recommended to update this with your contributions after each coding session.:
-
 ### [Brandon Yuan]
 
 * Completed the Log-in Scene and Course Search Scene
@@ -39,7 +36,3 @@ List the primary contributions of each author. It is recommended to update this 
 * Added methods to DatabaseDriver
 * Edited CourseReviewsController class
 * Edited and improved .fxml files
-
-## Issues
-
-There are no known issues (bugs, incorrect behavior, etc.) at the time of submission.
