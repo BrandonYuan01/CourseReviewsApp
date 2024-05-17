@@ -22,6 +22,8 @@ List the primary contributions of each author. It is recommended to update this 
 * Implemented SignUpController and signup.fxml
 * Implemented CourseSearchController and coursesearch.fxml
 * Implemented AddCourseController and addcourse.fxml
+* Implemented Database driver and DatabaseSingleton
+* Created Course and Review classes
 
 ### [Christopher Goodhart]
 
